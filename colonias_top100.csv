@@ -1,0 +1,522 @@
+municipio,colonia,lat,lon,concurrencia,rank_metro
+Guadalajara,Artesanos,20.68,-103.35,322,1
+Guadalajara,Santa Elena Alcaldea,20.67,-103.35,276,2
+Guadalajara,Mezquitan,20.68,-103.34,219,3
+Guadalajara,Santa Tere,20.68,-103.36,164,4
+Guadalajara,Centro Histórico,20.66,-103.35,163,5
+Guadalajara,Moderna,20.67,-103.33,147,6
+Guadalajara,Centro Histórico,20.67,-103.34,144,7
+Guadalajara,La Normal,20.68,-103.31,142,8
+Guadalajara,Miraflores,20.7,-103.35,140,9
+Guadalajara,Mezquitan,20.68,-103.33,133,10
+Guadalajara,Santa Tere,20.67,-103.36,133,11
+Guadalajara,Sector Libertad,20.66,-103.31,132,12
+Guadalajara,Sector Libertad,20.67,-103.31,129,13
+Tlaquepaque,San Pedrito Tlaquepaque,20.62,-103.32,126,14
+Guadalajara,Santa Tere,20.67,-103.37,124,15
+Zapopan,Atemajac del Valle,20.73,-103.34,123,16
+Zapopan,Jardín Real,20.72,-103.35,120,17
+Zapopan,El Batán,20.73,-103.36,119,18
+Guadalajara,Circunvalación Belisario,20.69,-103.35,116,19
+Guadalajara,Moderna,20.67,-103.32,115,20
+Guadalajara,Huentitán el Alto,20.72,-103.32,114,21
+Guadalajara,Col. Americana,20.68,-103.37,112,22
+Guadalajara,Miraflores,20.71,-103.35,112,23
+Guadalajara,Moderna,20.66,-103.32,110,24
+Guadalajara,Jardines del País,20.69,-103.31,108,25
+Zapopan,San Juan de Ocotán,20.61,-103.43,105,26
+Guadalajara,Sagrada Familia,20.65,-103.37,105,27
+Zapopan,Puerta de Hierro,20.74,-103.4,103,28
+Guadalajara,Jardines del Bosque,20.63,-103.37,97,29
+Guadalajara,Alcalde Barranquitas,20.7,-103.33,97,30
+Guadalajara,Sagrada Familia,20.66,-103.36,95,31
+Tlaquepaque,La Caña,20.59,-103.38,93,32
+Guadalajara,La Normal,20.68,-103.32,93,33
+Zapopan,Jardín Real,20.73,-103.35,92,34
+Guadalajara,La Normal,20.68,-103.3,91,35
+Guadalajara,Sector Libertad,20.67,-103.3,87,36
+Guadalajara,San Juan de Dios,20.65,-103.31,86,37
+Guadalajara,Jardines del Bosque,20.62,-103.37,86,38
+Guadalajara,Lafayette,20.67,-103.39,86,39
+Guadalajara,Olímpica,20.64,-103.35,84,40
+Zapopan,San Juan de Ocotán,20.65,-103.4,84,41
+Zapopan,Colinas de San Javier,20.7,-103.46,83,42
+Zapopan,Tesistán,20.76,-103.44,83,43
+Tlaquepaque,La Caña,20.61,-103.4,83,44
+Guadalajara,Lafayette,20.66,-103.39,82,45
+Zapopan,Lomas del Valle,20.74,-103.39,82,46
+Guadalajara,Miraflores,20.71,-103.36,81,47
+Tlaquepaque,Jardines del Nilo,20.59,-103.32,80,48
+Guadalajara,Sagrada Familia,20.65,-103.36,80,49
+Zapopan,San Juan de Ocotán,20.63,-103.44,80,50
+Guadalajara,Las Conchas,20.71,-103.3,80,51
+Zapopan,Bugambilias,20.72,-103.42,79,52
+Zapopan,El Batán,20.74,-103.38,78,53
+Guadalajara,Las Conchas,20.7,-103.28,78,54
+Guadalajara,Jardines del País,20.69,-103.32,76,55
+Guadalajara,Centro Histórico,20.66,-103.34,76,56
+Guadalajara,Sector Libertad,20.66,-103.3,76,57
+Guadalajara,Col. Americana,20.68,-103.38,75,58
+Guadalajara,Lafayette,20.67,-103.38,74,59
+Zapopan,Puerta de Hierro,20.75,-103.42,74,60
+Guadalajara,Sagrada Familia,20.66,-103.38,73,61
+Guadalajara,Providencia,20.7,-103.37,73,62
+Guadalajara,Oblatos,20.69,-103.3,72,63
+Zapopan,Jardines Vallarta,20.74,-103.41,71,64
+Guadalajara,Huentitán el Alto,20.72,-103.33,70,65
+Guadalajara,Sector Libertad,20.66,-103.29,70,66
+Zapopan,La Cañada,20.74,-103.35,69,67
+Guadalajara,Providencia,20.69,-103.37,69,68
+Tonalá,Tonalá Este,20.62,-103.25,68,69
+Guadalajara,Miraflores,20.7,-103.36,67,70
+Zapopan,Jardines Vallarta,20.73,-103.41,67,71
+Guadalajara,Sector Libertad,20.66,-103.28,67,72
+Zapopan,Tesistán,20.78,-103.46,66,73
+Guadalajara,Moderna,20.66,-103.33,65,74
+Guadalajara,Miraflores,20.69,-103.36,65,75
+Guadalajara,Olímpica,20.65,-103.33,63,76
+Guadalajara,Ladrón de Guevara,20.68,-103.39,62,77
+Zapopan,Lomas del Valle,20.73,-103.39,62,78
+Guadalajara,Alcalde Barranquitas,20.69,-103.34,62,79
+Guadalajara,Olímpica,20.65,-103.34,61,80
+Tonalá,El Rosario,20.64,-103.28,61,81
+Tlaquepaque,San Pedrito Tlaquepaque,20.63,-103.3,60,82
+Zapopan,Tesistán,20.77,-103.45,60,83
+Guadalajara,Las Conchas,20.69,-103.29,60,84
+Guadalajara,Las Conchas,20.71,-103.29,60,85
+Guadalajara,Sagrada Familia,20.66,-103.37,58,86
+Zapopan,Bugambilias,20.73,-103.42,58,87
+Zapopan,Moctezuma,20.73,-103.43,58,88
+Guadalajara,Jardines del Bosque,20.63,-103.38,58,89
+Guadalajara,San Juan de Dios,20.65,-103.28,57,90
+Guadalajara,Jardines del Bosque,20.64,-103.36,56,91
+Zapopan,Ciudad Granja,20.72,-103.39,56,92
+Tlaquepaque,Las Liebres,20.62,-103.29,55,93
+Guadalajara,Jardines del Bosque,20.63,-103.39,55,94
+Guadalajara,Jardines del Bosque,20.64,-103.37,54,95
+Zapopan,Colinas de San Javier,20.66,-103.45,53,96
+Tlaquepaque,Las Liebres,20.63,-103.29,53,97
+Guadalajara,Sagrada Familia,20.65,-103.38,53,98
+Guadalajara,Alcalde Barranquitas,20.69,-103.33,52,99
+Zapopan,Ciudad Granja,20.71,-103.41,51,100
+Guadalajara,Jardines del Bosque,20.63,-103.36,51,101
+Guadalajara,Las Conchas,20.7,-103.29,50,102
+Tlaquepaque,La Caña,20.61,-103.41,49,103
+Tonalá,San Gaspar de las Flores,20.69,-103.26,49,104
+Zapopan,El Batán,20.74,-103.37,48,105
+Zapopan,San Juan de Ocotán,20.64,-103.42,48,106
+Guadalajara,Jardines del Bosque,20.64,-103.39,48,107
+Zapopan,Moctezuma,20.71,-103.44,48,108
+Guadalajara,Col. Americana,20.69,-103.38,47,109
+Guadalajara,Olímpica,20.63,-103.34,47,110
+Zapopan,El Batán,20.74,-103.36,47,111
+Guadalajara,Sector Libertad,20.67,-103.28,47,112
+Guadalajara,Huentitán el Alto,20.71,-103.32,47,113
+Guadalajara,San Juan de Dios,20.65,-103.32,45,114
+Tlaquepaque,San Pedrito Tlaquepaque,20.63,-103.32,44,115
+Zapopan,San Juan de Ocotán,20.64,-103.46,44,116
+Guadalajara,Huentitán el Alto,20.71,-103.33,44,117
+Zapopan,San Juan de Ocotán,20.65,-103.41,44,118
+Guadalajara,Jardines del Bosque,20.63,-103.35,43,119
+Tlaquepaque,La Caña,20.58,-103.36,43,120
+Tlaquepaque,San Martín de las Flores,20.64,-103.3,43,121
+Tlaquepaque,Jardines del Nilo,20.58,-103.33,43,122
+Guadalajara,Oblatos,20.71,-103.31,43,123
+Zapopan,Moctezuma,20.7,-103.45,42,124
+Guadalajara,Providencia,20.7,-103.38,42,125
+Guadalajara,Jardines del Bosque,20.64,-103.38,42,126
+Zapopan,Moctezuma,20.73,-103.45,42,127
+Guadalajara,Alcalde Barranquitas,20.7,-103.34,42,128
+Zapopan,San Juan de Ocotán,20.64,-103.41,42,129
+Guadalajara,Sector Libertad,20.67,-103.29,41,130
+Tonalá,Tonalá Este,20.63,-103.24,41,131
+Guadalajara,Reforma,20.7,-103.32,41,132
+Zapopan,Ciudad Granja,20.73,-103.4,41,133
+Zapopan,San Juan de Ocotán,20.63,-103.41,40,134
+Zapopan,Chapalita Vallarta,20.72,-103.36,40,135
+Zapopan,San Juan de Ocotán,20.63,-103.45,39,136
+Guadalajara,Jardines del Bosque,20.62,-103.35,39,137
+Guadalajara,La Normal,20.68,-103.29,38,138
+Tlaquepaque,Jardines del Nilo,20.6,-103.32,38,139
+Tonalá,Lomas de Tonalá,20.67,-103.22,38,140
+Guadalajara,Las Conchas,20.68,-103.27,38,141
+Zapopan,Ciudad Granja,20.69,-103.42,38,142
+Guadalajara,Olímpica,20.64,-103.33,37,143
+Zapopan,San Juan de Ocotán,20.66,-103.42,37,144
+Zapopan,San Juan de Ocotán,20.63,-103.42,36,145
+Guadalajara,Las Conchas,20.7,-103.3,36,146
+Tlaquepaque,La Caña,20.59,-103.39,36,147
+Zapopan,Tesistán,20.76,-103.43,36,148
+Zapopan,San Juan de Ocotán,20.64,-103.45,36,149
+Guadalajara,Jardines del Bosque,20.62,-103.39,35,150
+Tlaquepaque,La Caña,20.6,-103.4,35,151
+Tlaquepaque,San Pedrito Tlaquepaque,20.62,-103.31,35,152
+Tlaquepaque,La Caña,20.6,-103.38,35,153
+Zapopan,San Juan de Ocotán,20.64,-103.44,34,154
+Zapopan,San Juan de Ocotán,20.63,-103.46,34,155
+Tonalá,El Rosario,20.6,-103.25,34,156
+Guadalajara,Las Conchas,20.69,-103.28,33,157
+Guadalajara,Jardines del Bosque,20.62,-103.38,33,158
+Tlaquepaque,Jardines del Nilo,20.59,-103.33,33,159
+Zapopan,San Juan de Ocotán,20.6,-103.43,32,160
+Zapopan,Colinas de San Javier,20.68,-103.42,32,161
+Tonalá,San Gaspar de las Flores,20.69,-103.27,32,162
+Zapopan,Moctezuma,20.75,-103.43,32,163
+Zapopan,La Cañada,20.76,-103.34,31,164
+Tonalá,Tonalá Este,20.63,-103.25,31,165
+Guadalajara,San Juan de Dios,20.65,-103.3,30,166
+Guadalajara,Centro Histórico,20.65,-103.35,30,167
+Guadalajara,Las Fuentes,20.71,-103.38,30,168
+Tonalá,Lomas de Tonalá,20.65,-103.23,30,169
+Zapopan,San Juan de Ocotán,20.63,-103.43,30,170
+Zapopan,San Juan de Ocotán,20.65,-103.45,30,171
+Zapopan,Moctezuma,20.71,-103.46,30,172
+Tonalá,San Juanito,20.68,-103.25,30,173
+Tlaquepaque,La Caña,20.58,-103.34,30,174
+Tlaquepaque,La Caña,20.58,-103.35,30,175
+Tonalá,San Juanito,20.68,-103.26,29,176
+Tonalá,El Rosario,20.62,-103.26,28,177
+Tonalá,El Rosario,20.62,-103.27,28,178
+Tonalá,Lomas de Tonalá,20.66,-103.23,28,179
+Zapopan,Bugambilias,20.74,-103.42,28,180
+Zapopan,El Batán,20.72,-103.38,27,181
+Guadalajara,Chapalita,20.67,-103.4,27,182
+Tlaquepaque,Jardines del Nilo,20.61,-103.34,27,183
+Guadalajara,Oblatos,20.7,-103.31,27,184
+Tlaquepaque,La Caña,20.6,-103.39,27,185
+Zapopan,Chapalita Vallarta,20.72,-103.37,27,186
+Zapopan,Valle Real,20.75,-103.38,27,187
+Guadalajara,Alcalde Barranquitas,20.71,-103.34,26,188
+Zapopan,San Juan de Ocotán,20.62,-103.42,26,189
+Tlaquepaque,Jardines del Nilo,20.61,-103.32,26,190
+Zapopan,El Batán,20.73,-103.37,26,191
+Guadalajara,Sector Libertad,20.66,-103.27,26,192
+Guadalajara,Arcos Vallarta,20.69,-103.39,26,193
+Guadalajara,Olímpica,20.64,-103.34,25,194
+Guadalajara,San Juan de Dios,20.65,-103.29,25,195
+Zapopan,San Juan de Ocotán,20.64,-103.43,25,196
+Zapopan,Ciudad Granja,20.67,-103.4,25,197
+Zapopan,San Juan de Ocotán,20.64,-103.47,24,198
+Guadalajara,San Juan de Dios,20.64,-103.29,24,199
+Zapopan,Colinas de San Javier,20.68,-103.43,24,200
+Zapopan,San Juan de Ocotán,20.65,-103.46,24,201
+Guadalajara,Las Conchas,20.68,-103.28,24,202
+Zapopan,Ciudad Granja,20.71,-103.38,24,203
+Tlaquepaque,San Martín de las Flores,20.64,-103.32,23,204
+Guadalajara,Jardines del Bosque,20.62,-103.36,23,205
+Guadalajara,Las Conchas,20.7,-103.27,23,206
+Zapopan,Tesistán,20.79,-103.47,23,207
+Zapopan,La Cañada,20.74,-103.34,22,208
+Zapopan,San Juan de Ocotán,20.62,-103.43,22,209
+Tlaquepaque,San Martín de las Flores,20.64,-103.31,22,210
+Zapopan,San Juan de Ocotán,20.6,-103.44,22,211
+Tonalá,Lomas de Tonalá,20.68,-103.24,22,212
+Zapopan,Colinas de San Javier,20.67,-103.43,22,213
+Tonalá,Tonalá Este,20.62,-103.24,22,214
+Zapopan,San Juan de Ocotán,20.66,-103.44,22,215
+Guadalajara,Huentitán el Alto,20.73,-103.32,22,216
+Zapopan,La Cañada,20.75,-103.34,21,217
+Zapopan,San Juan de Ocotán,20.65,-103.44,21,218
+Tlaquepaque,La Caña,20.61,-103.38,21,219
+Zapopan,Puerta de Hierro,20.75,-103.4,21,220
+Zapopan,La Venta del Astillero,20.8,-103.48,20,221
+Guadalajara,Las Conchas,20.69,-103.27,20,222
+Tonalá,Tonalá Este,20.59,-103.24,20,223
+Tlaquepaque,El Quince,20.61,-103.29,20,224
+Tonalá,El Rosario,20.63,-103.27,20,225
+Zapopan,Valle Real,20.75,-103.39,20,226
+Tlaquepaque,El Quince,20.6,-103.29,20,227
+Zapopan,Moctezuma,20.74,-103.43,20,228
+Guadalajara,Huentitán el Alto,20.73,-103.31,19,229
+Zapopan,La Cañada,20.77,-103.34,19,230
+Zapopan,Colinas de San Javier,20.67,-103.46,19,231
+Tonalá,Tonalá Este,20.6,-103.24,19,232
+Tlaquepaque,La Caña,20.58,-103.37,19,233
+Zapopan,Colinas de San Javier,20.69,-103.45,19,234
+Zapopan,Ciudad Granja,20.68,-103.41,19,235
+Zapopan,Colinas de San Javier,20.67,-103.42,19,236
+Guadalajara,Sagrada Familia,20.65,-103.39,19,237
+Guadalajara,Providencia,20.71,-103.37,19,238
+Zapopan,El Batán,20.73,-103.38,19,239
+Guadalajara,Las Fuentes,20.7,-103.39,18,240
+Zapopan,Moctezuma,20.75,-103.44,18,241
+Zapopan,San Juan de Ocotán,20.64,-103.4,18,242
+Zapopan,San Juan de Ocotán,20.65,-103.43,18,243
+Tonalá,El Rosario,20.63,-103.26,18,244
+Tlaquepaque,El Quince,20.61,-103.28,18,245
+Zapopan,Chapalita Vallarta,20.71,-103.37,18,246
+Zapopan,Colinas de San Javier,20.69,-103.44,17,247
+Zapopan,La Venta del Astillero,20.8,-103.5,17,248
+Tlaquepaque,Jardines del Nilo,20.6,-103.33,17,249
+Guadalajara,Olímpica,20.63,-103.33,16,250
+Zapopan,Tesistán,20.77,-103.44,16,251
+Guadalajara,Olímpica,20.64,-103.32,16,252
+Zapopan,Colinas de San Javier,20.68,-103.44,16,253
+Guadalajara,Arcos Vallarta,20.68,-103.4,16,254
+Guadalajara,Chapalita,20.66,-103.4,16,255
+Guadalajara,San Juan de Dios,20.65,-103.27,16,256
+Guadalajara,San Juan de Dios,20.64,-103.3,16,257
+Zapopan,Moctezuma,20.7,-103.43,16,258
+Zapopan,San Juan de Ocotán,20.66,-103.41,16,259
+Tlaquepaque,Jardines del Nilo,20.6,-103.34,15,260
+Tlaquepaque,La Caña,20.57,-103.36,15,261
+Zapopan,San Juan de Ocotán,20.66,-103.43,15,262
+Zapopan,San Juan de Ocotán,20.65,-103.42,15,263
+Tonalá,San Juanito,20.65,-103.27,15,264
+Tlaquepaque,La Caña,20.62,-103.39,15,265
+Zapopan,Colinas de San Javier,20.69,-103.43,15,266
+Guadalajara,Huentitán el Alto,20.72,-103.31,15,267
+Zapopan,Colinas de San Javier,20.68,-103.46,15,268
+Tlaquepaque,La Caña,20.58,-103.39,14,269
+Zapopan,Colinas de San Javier,20.67,-103.45,14,270
+Zapopan,San Juan de Ocotán,20.67,-103.41,14,271
+Guadalajara,Las Conchas,20.72,-103.3,14,272
+Tonalá,Lomas de Tonalá,20.66,-103.25,14,273
+Tonalá,San Juanito,20.67,-103.26,14,274
+Guadalajara,Olímpica,20.62,-103.34,14,275
+Guadalajara,Los Olivos,20.61,-103.38,14,276
+Tonalá,San Juanito,20.66,-103.26,13,277
+Tlaquepaque,San Pedrito Tlaquepaque,20.63,-103.33,13,278
+Zapopan,Moctezuma,20.71,-103.45,13,279
+Zapopan,Puerta de Hierro,20.75,-103.41,13,280
+Zapopan,Tesistán,20.78,-103.47,12,281
+Zapopan,San Juan de Ocotán,20.66,-103.4,12,282
+Zapopan,Moctezuma,20.72,-103.43,12,283
+Tonalá,Tonalá Este,20.61,-103.24,12,284
+Tlaquepaque,La Caña,20.62,-103.42,12,285
+Tlaquepaque,San Pedrito Tlaquepaque,20.63,-103.31,12,286
+Guadalajara,Olímpica,20.61,-103.34,12,287
+Zapopan,La Venta del Astillero,20.79,-103.51,11,288
+Tonalá,Lomas de Tonalá,20.67,-103.24,11,289
+Zapopan,Tesistán,20.73,-103.54,11,290
+Guadalajara,Huentitán el Alto,20.72,-103.34,11,291
+Zapopan,Tesistán,20.73,-103.52,11,292
+Guadalajara,San Juan de Dios,20.64,-103.31,11,293
+Tlaquepaque,La Caña,20.56,-103.39,11,294
+Tonalá,San Juanito,20.65,-103.26,11,295
+Zapopan,Valle Real,20.76,-103.39,11,296
+Zapopan,Puerta de Hierro,20.76,-103.4,11,297
+Zapopan,La Venta del Astillero,20.85,-103.43,11,298
+Guadalajara,Chapalita,20.65,-103.4,11,299
+Zapopan,La Cañada,20.75,-103.36,11,300
+Guadalajara,San Juan de Dios,20.64,-103.28,11,301
+Zapopan,La Venta del Astillero,20.85,-103.45,11,302
+Zapopan,Ciudad Granja,20.71,-103.39,10,303
+Zapopan,Tesistán,20.79,-103.48,10,304
+Tlaquepaque,La Caña,20.59,-103.41,10,305
+Tlaquepaque,El Quince,20.6,-103.28,10,306
+Tlaquepaque,El Quince,20.59,-103.28,10,307
+Guadalajara,Olímpica,20.63,-103.32,10,308
+Tlaquepaque,La Caña,20.59,-103.35,10,309
+Tlaquepaque,La Caña,20.61,-103.37,10,310
+Zapopan,El Batán,20.75,-103.37,10,311
+Guadalajara,Las Fuentes,20.71,-103.39,10,312
+Tlaquepaque,Jardines del Nilo,20.61,-103.33,10,313
+Tlaquepaque,La Caña,20.58,-103.43,10,314
+Zapopan,San Juan de Ocotán,20.62,-103.41,10,315
+Tonalá,Tonalá Este,20.62,-103.23,10,316
+Tlaquepaque,El Quince,20.59,-103.27,9,317
+Guadalajara,Huentitán el Alto,20.74,-103.31,9,318
+Tonalá,Tonalá Este,20.59,-103.22,9,319
+Zapopan,La Venta del Astillero,20.8,-103.49,9,320
+Tlaquepaque,La Caña,20.6,-103.35,9,321
+Tonalá,El Rosario,20.63,-103.28,9,322
+Tlaquepaque,La Caña,20.63,-103.4,9,323
+Tonalá,El Rosario,20.62,-103.28,9,324
+Tonalá,San Juanito,20.67,-103.25,9,325
+Zapopan,San Juan de Ocotán,20.62,-103.45,9,326
+Zapopan,San Juan de Ocotán,20.62,-103.44,8,327
+Tlaquepaque,Santa Anita,20.55,-103.44,8,328
+Zapopan,San Juan de Ocotán,20.63,-103.47,8,329
+Tlaquepaque,Las Liebres,20.62,-103.3,8,330
+Zapopan,Ciudad Granja,20.7,-103.42,8,331
+Tlaquepaque,El Quince,20.61,-103.3,8,332
+Tlaquepaque,La Duraznera,20.56,-103.45,8,333
+Guadalajara,Jardines del Bosque,20.63,-103.4,8,334
+Tlaquepaque,El Álamo,20.6,-103.26,8,335
+Guadalajara,Vallarta Norte,20.7,-103.4,8,336
+Zapopan,Moctezuma,20.73,-103.44,8,337
+Zapopan,Ciudad Granja,20.71,-103.4,8,338
+Guadalajara,Huentitán el Alto,20.74,-103.32,7,339
+Zapopan,La Venta del Astillero,20.76,-103.53,7,340
+Zapopan,Moctezuma,20.72,-103.45,7,341
+Zapopan,San Juan de Ocotán,20.62,-103.46,7,342
+Zapopan,La Cañada,20.77,-103.35,7,343
+Tlaquepaque,El Álamo,20.62,-103.28,7,344
+Tlaquepaque,La Caña,20.56,-103.33,7,345
+Guadalajara,Sector Libertad,20.67,-103.27,7,346
+Zapopan,Camichines,20.85,-103.42,7,347
+Zapopan,Tesistán,20.81,-103.45,7,348
+Tlaquepaque,Jardines del Nilo,20.62,-103.33,6,349
+Zapopan,Tesistán,20.8,-103.46,6,350
+Zapopan,La Venta del Astillero,20.83,-103.45,6,351
+Tlaquepaque,La Caña,20.62,-103.4,6,352
+Tlaquepaque,El Álamo,20.61,-103.26,6,353
+Tlaquepaque,La Caña,20.6,-103.41,6,354
+Tonalá,Lomas de Tonalá,20.65,-103.25,6,355
+Tlaquepaque,La Caña,20.59,-103.4,6,356
+Tonalá,Tonalá Este,20.63,-103.23,6,357
+Tonalá,El Rosario,20.63,-103.29,6,358
+Guadalajara,Los Olivos,20.61,-103.39,6,359
+Tlaquepaque,San Pedrito Tlaquepaque,20.64,-103.29,6,360
+Tonalá,Tonalá Este,20.57,-103.22,6,361
+Tonalá,Lomas de Tonalá,20.68,-103.23,6,362
+Zapopan,San Juan de Ocotán,20.61,-103.45,5,363
+Tonalá,Tonalá Este,20.62,-103.21,5,364
+Tlaquepaque,Jardines del Nilo,20.61,-103.35,5,365
+Guadalajara,Huentitán el Alto,20.73,-103.33,5,366
+Zapopan,La Cañada,20.75,-103.35,5,367
+Zapopan,Moctezuma,20.72,-103.46,5,368
+Tonalá,Tonalá Este,20.58,-103.22,5,369
+Zapopan,Tesistán,20.75,-103.45,5,370
+Zapopan,La Venta del Astillero,20.81,-103.48,5,371
+Guadalajara,Jardines del Bosque,20.64,-103.4,5,372
+Tlaquepaque,Jardines del Nilo,20.59,-103.34,5,373
+Tlaquepaque,Jardines del Nilo,20.6,-103.31,5,374
+Zapopan,La Venta del Astillero,20.77,-103.52,5,375
+Zapopan,Moctezuma,20.72,-103.49,5,376
+Tonalá,Tonalá Este,20.61,-103.21,5,377
+Tlaquepaque,La Caña,20.58,-103.42,5,378
+Tonalá,Lomas de Tonalá,20.65,-103.21,5,379
+Tlaquepaque,La Caña,20.57,-103.35,5,380
+Tlaquepaque,La Caña,20.56,-103.34,5,381
+Tonalá,El Rosario,20.6,-103.26,5,382
+Zapopan,Colinas de San Javier,20.67,-103.44,5,383
+Tlaquepaque,La Duraznera,20.55,-103.42,5,384
+Zapopan,San Juan de Ocotán,20.6,-103.45,5,385
+Tonalá,El Rosario,20.64,-103.27,5,386
+Zapopan,Colinas de San Javier,20.68,-103.45,5,387
+Zapopan,Tesistán,20.78,-103.48,5,388
+Tonalá,Tonalá Este,20.64,-103.25,5,389
+Guadalajara,Jardines del Bosque,20.61,-103.35,4,390
+Zapopan,Colinas de San Javier,20.69,-103.46,4,391
+Zapopan,Tesistán,20.78,-103.44,4,392
+Zapopan,Tesistán,20.79,-103.46,4,393
+Tlaquepaque,El Álamo,20.59,-103.26,4,394
+Tlaquepaque,La Caña,20.6,-103.42,4,395
+Zapopan,Tesistán,20.81,-103.46,4,396
+Zapopan,La Cañada,20.76,-103.35,4,397
+Zapopan,Tesistán,20.82,-103.45,4,398
+Zapopan,Moctezuma,20.74,-103.44,4,399
+Zapopan,Puerta de Hierro,20.76,-103.42,4,400
+Tlaquepaque,Jardines del Nilo,20.59,-103.31,4,401
+Zapopan,Tesistán,20.8,-103.47,4,402
+Tonalá,Tonalá Este,20.56,-103.22,4,403
+Tlaquepaque,La Caña,20.61,-103.39,4,404
+Zapopan,San Juan de Ocotán,20.59,-103.43,4,405
+Tlaquepaque,El Quince,20.58,-103.28,4,406
+Zapopan,Camichines,20.78,-103.38,4,407
+Zapopan,Moctezuma,20.72,-103.48,4,408
+Zapopan,Moctezuma,20.72,-103.44,4,409
+Tonalá,San Juanito,20.68,-103.27,4,410
+Tonalá,El Rosario,20.64,-103.26,4,411
+Tonalá,Lomas de Tonalá,20.65,-103.22,4,412
+Tlaquepaque,La Caña,20.64,-103.4,3,413
+Zapopan,Chapalita Vallarta,20.71,-103.36,3,414
+Zapopan,Moctezuma,20.71,-103.43,3,415
+Tonalá,Tonalá Este,20.59,-103.23,3,416
+Guadalajara,Vallarta Norte,20.69,-103.4,3,417
+Tlaquepaque,El Quince,20.61,-103.31,3,418
+Zapopan,Ciudad Granja,20.72,-103.4,3,419
+Zapopan,Moctezuma,20.73,-103.47,3,420
+Zapopan,La Venta del Astillero,20.86,-103.43,3,421
+Zapopan,La Venta del Astillero,20.74,-103.54,3,422
+Zapopan,Puerta de Hierro,20.77,-103.42,3,423
+Zapopan,Camichines,20.76,-103.38,3,424
+Zapopan,Tesistán,20.74,-103.49,3,425
+Guadalajara,Jardines del Bosque,20.61,-103.36,3,426
+Tlaquepaque,La Caña,20.57,-103.44,3,427
+Zapopan,San Juan de Ocotán,20.62,-103.47,3,428
+Zapopan,San Juan de Ocotán,20.61,-103.42,3,429
+Zapopan,San Juan de Ocotán,20.63,-103.4,3,430
+Tlaquepaque,La Caña,20.56,-103.35,3,431
+Tonalá,Lomas de Tonalá,20.68,-103.22,3,432
+Tonalá,Lomas de Tonalá,20.67,-103.21,3,433
+Zapopan,Ciudad Granja,20.69,-103.41,3,434
+Zapopan,Camichines,20.76,-103.37,3,435
+Tonalá,Lomas de Tonalá,20.67,-103.23,3,436
+Zapopan,Camichines,20.79,-103.35,3,437
+Tonalá,Lomas de Tonalá,20.66,-103.2,3,438
+Tonalá,San Juanito,20.66,-103.27,3,439
+Zapopan,Camichines,20.77,-103.4,3,440
+Tonalá,Lomas de Tonalá,20.66,-103.21,3,441
+Tlaquepaque,La Caña,20.59,-103.42,2,442
+Zapopan,San Juan de Ocotán,20.59,-103.44,2,443
+Tlaquepaque,Jardines del Nilo,20.57,-103.33,2,444
+Tonalá,Tonalá Este,20.6,-103.23,2,445
+Zapopan,San Juan de Ocotán,20.59,-103.42,2,446
+Tonalá,Tonalá Este,20.61,-103.2,2,447
+Tlaquepaque,Las Pintitas,20.55,-103.45,2,448
+Zapopan,San Juan de Ocotán,20.61,-103.47,2,449
+Tonalá,El Rosario,20.61,-103.27,2,450
+Guadalajara,Jardines del Bosque,20.61,-103.37,2,451
+Zapopan,Moctezuma,20.7,-103.44,2,452
+Zapopan,San Juan de Ocotán,20.63,-103.48,2,453
+Tlaquepaque,Buenavista,20.55,-103.33,2,454
+Tlaquepaque,La Caña,20.56,-103.36,2,455
+Tlaquepaque,La Caña,20.57,-103.39,2,456
+Tonalá,El Rosario,20.61,-103.28,2,457
+Zapopan,Atemajac del Valle,20.73,-103.33,2,458
+Zapopan,La Cañada,20.76,-103.36,2,459
+Zapopan,La Cañada,20.76,-103.33,2,460
+Zapopan,Tesistán,20.77,-103.46,2,461
+Zapopan,Tesistán,20.82,-103.44,2,462
+Zapopan,Atemajac del Valle,20.75,-103.33,2,463
+Zapopan,Tesistán,20.74,-103.48,2,464
+Zapopan,La Venta del Astillero,20.81,-103.49,2,465
+Zapopan,La Venta del Astillero,20.79,-103.5,2,466
+Tlaquepaque,La Caña,20.62,-103.41,2,467
+Tlaquepaque,El Quince,20.6,-103.3,2,468
+Tlaquepaque,La Caña,20.61,-103.36,2,469
+Zapopan,Colinas de San Javier,20.7,-103.47,2,470
+Guadalajara,Miraflores,20.72,-103.35,2,471
+Zapopan,Moctezuma,20.73,-103.46,2,472
+Tlaquepaque,El Álamo,20.61,-103.27,2,473
+Tlaquepaque,Santa Anita,20.54,-103.44,2,474
+Tonalá,Lomas de Tonalá,20.66,-103.24,1,475
+Zapopan,Tesistán,20.78,-103.43,1,476
+Tonalá,Lomas de Tonalá,20.64,-103.22,1,477
+Zapopan,La Venta del Astillero,20.79,-103.49,1,478
+Zapopan,Tesistán,20.79,-103.44,1,479
+Zapopan,Camichines,20.77,-103.37,1,480
+Zapopan,La Cañada,20.77,-103.33,1,481
+Zapopan,Camichines,20.78,-103.36,1,482
+Tonalá,Lomas de Tonalá,20.64,-103.23,1,483
+Zapopan,Camichines,20.78,-103.35,1,484
+Zapopan,Tesistán,20.78,-103.45,1,485
+Zapopan,San Juan de Ocotán,20.62,-103.4,1,486
+Tonalá,San Juanito,20.67,-103.27,1,487
+Tonalá,Lomas de Tonalá,20.67,-103.2,1,488
+Tonalá,Lomas de Tonalá,20.69,-103.23,1,489
+Zapopan,Ciudad Granja,20.68,-103.4,1,490
+Tlaquepaque,La Caña,20.58,-103.38,1,491
+Tlaquepaque,Jardines del Nilo,20.58,-103.32,1,492
+Tlaquepaque,Jardines del Nilo,20.58,-103.29,1,493
+Tlaquepaque,La Caña,20.58,-103.4,1,494
+Tonalá,El Rosario,20.61,-103.26,1,495
+Zapopan,San Juan de Ocotán,20.65,-103.48,1,496
+Tlaquepaque,La Duraznera,20.55,-103.4,1,497
+Zapopan,San Juan de Ocotán,20.61,-103.44,1,498
+Zapopan,San Juan de Ocotán,20.62,-103.48,1,499
+Zapopan,San Juan de Ocotán,20.6,-103.42,1,500
+Zapopan,San Juan de Ocotán,20.61,-103.49,1,501
+Zapopan,Ciudad Granja,20.7,-103.4,1,502
+Zapopan,Ciudad Granja,20.69,-103.4,1,503
+Tonalá,Tonalá Este,20.57,-103.23,1,504
+Guadalajara,Las Conchas,20.73,-103.3,1,505
+Tlaquepaque,La Caña,20.6,-103.37,1,506
+Zapopan,Atemajac del Valle,20.72,-103.34,1,507
+Zapopan,Ciudad Granja,20.72,-103.41,1,508
+Zapopan,Tesistán,20.72,-103.53,1,509
+Guadalajara,Las Conchas,20.72,-103.29,1,510
+Zapopan,Moctezuma,20.71,-103.47,1,511
+Zapopan,Ciudad Granja,20.7,-103.41,1,512
+Tonalá,Tonalá Este,20.58,-103.23,1,513
+Guadalajara,Miraflores,20.72,-103.36,1,514
+Zapopan,La Venta del Astillero,20.81,-103.5,1,515
+Zapopan,Atemajac del Valle,20.74,-103.33,1,516
+Zapopan,Tesistán,20.75,-103.51,1,517
+Tlaquepaque,La Caña,20.61,-103.42,1,518
+Zapopan,Tesistán,20.75,-103.5,1,519
+Zapopan,La Venta del Astillero,20.82,-103.5,1,520
+Zapopan,La Venta del Astillero,20.87,-103.44,1,521

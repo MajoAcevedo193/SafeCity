@@ -1,0 +1,316 @@
+{
+  "feature_cols": [
+    "MES",
+    "DIA_NUM",
+    "TIPO_DIA",
+    "FRANJA_NUM",
+    "MUN_ENC",
+    "MUN_RIESGO_RANK",
+    "ES_FIN_SEMANA",
+    "ES_HORA_PICO",
+    "ES_NOCHE",
+    "MES_SIN",
+    "MES_COS",
+    "CAUSA_ENC",
+    "TIPO_ENC"
+  ],
+  "clf_threshold": 0.47,
+  "factor_dashboard": 1.0234061625111586,
+  "mun_enc_map": {
+    "Guadalajara": 0,
+    "Tlaquepaque": 2,
+    "Tonalá": 3,
+    "Zapopan": 1
+  },
+  "target": "ANOMALIA",
+  "umbral_z": 0.5,
+  "stats_grupo": [
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 0,
+      "media_grupo": 7.24400871459695,
+      "std_grupo": 6.531193378846544
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 1,
+      "media_grupo": 10.355300859598854,
+      "std_grupo": 9.445540012645532
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 0,
+      "media_grupo": 6.830188679245283,
+      "std_grupo": 3.7036336016244444
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 1,
+      "media_grupo": 21.016666666666666,
+      "std_grupo": 13.437350763568515
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 0,
+      "media_grupo": 62.020833333333336,
+      "std_grupo": 27.752928400345617
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 1,
+      "media_grupo": 47.05555555555556,
+      "std_grupo": 25.946854237380045
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 0,
+      "media_grupo": 77.77708333333334,
+      "std_grupo": 34.013234189573836
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 1,
+      "media_grupo": 67.38333333333334,
+      "std_grupo": 35.94630396580747
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 0,
+      "media_grupo": 46.62291666666667,
+      "std_grupo": 20.19842838491644
+    },
+    {
+      "MUN_ENC": 0,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 1,
+      "media_grupo": 42.19722222222222,
+      "std_grupo": 21.488935886206857
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 0,
+      "media_grupo": 4.788732394366197,
+      "std_grupo": 4.2545438451814865
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 1,
+      "media_grupo": 6.4851190476190474,
+      "std_grupo": 5.67685155415173
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 0,
+      "media_grupo": 4.659528907922912,
+      "std_grupo": 2.62084131905312
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 1,
+      "media_grupo": 14.491666666666667,
+      "std_grupo": 9.507653419093723
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 0,
+      "media_grupo": 41.375,
+      "std_grupo": 20.502685806034314
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 1,
+      "media_grupo": 29.052777777777777,
+      "std_grupo": 18.469578783823753
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 0,
+      "media_grupo": 40.11666666666667,
+      "std_grupo": 20.467269388326706
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 1,
+      "media_grupo": 36.88055555555555,
+      "std_grupo": 22.81864213006238
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 0,
+      "media_grupo": 28.425,
+      "std_grupo": 13.570607129769972
+    },
+    {
+      "MUN_ENC": 1,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 1,
+      "media_grupo": 25.46388888888889,
+      "std_grupo": 14.568972502025636
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 0,
+      "media_grupo": 2.519125683060109,
+      "std_grupo": 1.788368905753117
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 1,
+      "media_grupo": 3.1363636363636362,
+      "std_grupo": 2.480578468317434
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 0,
+      "media_grupo": 2.5,
+      "std_grupo": 1.5751834837626995
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 1,
+      "media_grupo": 5.485632183908046,
+      "std_grupo": 3.9210244503703535
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 0,
+      "media_grupo": 17.135416666666668,
+      "std_grupo": 9.468131132008875
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 1,
+      "media_grupo": 12.48314606741573,
+      "std_grupo": 8.62177049174977
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 0,
+      "media_grupo": 14.535714285714286,
+      "std_grupo": 8.481111255036138
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 1,
+      "media_grupo": 14.843575418994414,
+      "std_grupo": 10.099676926283557
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 0,
+      "media_grupo": 12.845511482254697,
+      "std_grupo": 7.08829075266554
+    },
+    {
+      "MUN_ENC": 2,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 1,
+      "media_grupo": 12.520891364902507,
+      "std_grupo": 7.8112498221638536
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 0,
+      "media_grupo": 1.4676616915422886,
+      "std_grupo": 1.0
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": -1,
+      "TIPO_DIA": 1,
+      "media_grupo": 1.8522167487684729,
+      "std_grupo": 1.237944844464369
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 0,
+      "media_grupo": 1.538812785388128,
+      "std_grupo": 1.0
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 0,
+      "TIPO_DIA": 1,
+      "media_grupo": 2.503846153846154,
+      "std_grupo": 1.6310171091122279
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 0,
+      "media_grupo": 4.723214285714286,
+      "std_grupo": 2.808455820759095
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 1,
+      "TIPO_DIA": 1,
+      "media_grupo": 4.114114114114114,
+      "std_grupo": 2.360355078239813
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 0,
+      "media_grupo": 5.60352422907489,
+      "std_grupo": 3.4038785698664697
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 2,
+      "TIPO_DIA": 1,
+      "media_grupo": 5.897360703812317,
+      "std_grupo": 3.4630009192272704
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 0,
+      "media_grupo": 3.9668141592920354,
+      "std_grupo": 2.3385813599095906
+    },
+    {
+      "MUN_ENC": 3,
+      "FRANJA_NUM": 3,
+      "TIPO_DIA": 1,
+      "media_grupo": 4.483870967741935,
+      "std_grupo": 2.6285543389310924
+    }
+  ],
+  "version": "v5",
+  "split": {
+    "train": "2010-2019",
+    "val": "2020-2021",
+    "test": "2022-2024"
+  },
+  "medio_threshold": 0.35
+}
